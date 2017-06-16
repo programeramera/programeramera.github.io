@@ -1,0 +1,59 @@
+p{
+	font-size: 30px;
+	color: red;
+
+} 
+h1{
+	color: purple;
+	padding-top: 5cm;
+	font-size: 80px;
+	font-style: bold;
+	text-shadow: 2px 2px white;
+}
+
+.body1{
+	background-image: url("../bilder/ang.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;}
+
+.body2{
+	background-image: url("../bilder/blommor.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;}
+
+
+
+ .body3{
+ 	background-image: url("../bilder/ladda ned.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;}         
+} 
+
+.body4{
+	background-image: url("../bilder/rosor.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;} 
+
+	body{
+		background-color: lightyellow;
+		font-family:'Indie Flower', cursive;
+		text-align: center;
+	}
+
+	.navbar-inverse{
+		background: pink;
+	} 
+	.navbar-inverse .navar-nav > li > a{
+		color: blue;
+		text-decoration: bold;
+		font-family: 'Indie Flower', cursive;
+		font-size: 150%; 
+	}                
